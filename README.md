@@ -5,7 +5,7 @@
 참가자 : 백성은 / 김도현 / 조예슬 / 김은우
 
 | 주차 | 발표자 | 논문 제목 |
-|------|--------|---------------------------------------------------------------|
+|------|--------|---------------------------------|
 | 1주차 | **김도현** | Prompt-to-Prompt Image Editing with Cross Attention Control |
 | 2주차 | **백성은** | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models |
 | 3주차 | **김도현** | Language is not all you need |
